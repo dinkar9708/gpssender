@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591481973394",
+    "project_id": "gps-sender-f2990",
+    "storage_bucket": "gps-sender-f2990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591481973394:android:18d65ec12e56681358944b",
+        "android_client_info": {
+          "package_name": "com.fyp2022.gpssender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591481973394-mn6gtoghtqd56bh59nr7jsu8aj49uo8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QKMqBGtnIJH2U0g6FUF7lrxNsfbAj-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591481973394-mn6gtoghtqd56bh59nr7jsu8aj49uo8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
